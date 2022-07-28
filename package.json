@@ -6,7 +6,7 @@
   "author": "zllGitHub",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zlluGitHub/phyloview.git"
+    "url": "https://github.com/zlluGitHub/phyloView.git"
   },
   "keywords": [
     "javascript",
@@ -17,7 +17,7 @@
     "radial"
   ],
   "bugs": {
-    "url": "https://github.com/zlluGitHub/phyloview/issues"
+    "url": "https://github.com/zlluGitHub/phyloView/issues"
   },
   "homepage": "http://www.phyloview.cc",
   "license": "ISC"
