@@ -1,6 +1,6 @@
 {
   "name": "phyloview",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "PhyloView 是一款基于 d3.js 的用于可视化系统进化树的插件（以下简称“本插件”），支持 tree 、radial 布局、 支持导入导出 Newick 、 NEXUS 、NeXML、Phyloxml等格式的树文件，且具备选中分支、编辑子树、添加子树、进化分支优化、树结构转换、字体切换、元数据展示、保存所选枝叶、重置树、将进化树图像导出为 SVG 、 PNG 等功能。",
   "main": "index.js",
   "author": "zllGitHub",
